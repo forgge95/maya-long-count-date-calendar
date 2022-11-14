@@ -38,6 +38,6 @@ public class Calendar {
         } catch (Exception e) {
             e.printStackTrace();
         }
-        System.out.println("Long Count Date for  " + localDate + "(yyyy/MM/dd) : "+CALENDAR_CENTURIES + "." + CALENDAR_DECADES + "." + CALENDAR_YEARS + "."+ CALENDAR_MONTHS + "." + CALENDAR_DAYS);
+        System.out.println("Long Count Date for " + localDate + "(yyyy/MM/dd) : "+CALENDAR_CENTURIES + "." + CALENDAR_DECADES + "." + CALENDAR_YEARS + "."+ CALENDAR_MONTHS + "." + CALENDAR_DAYS);
     }
 }
